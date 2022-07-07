@@ -35,7 +35,7 @@ export function ModalViewImage({
         </ModalBody>
         <ModalFooter>
           <Link href={imgUrl} target="_blank" color="white">
-            Abrir Original
+            Abrir original
           </Link>
         </ModalFooter>
       </ModalContent>
